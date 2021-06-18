@@ -1,0 +1,21 @@
+_id: req_dc2fa55c1a564253ba2f9c87b5be4113
+type: Request
+parentId: wrk_2787a502707449f8bbbbd846b6e22284
+modified: 1624021436558
+created: 1624020930505
+url: "{{ base_url }}/tickets"
+name: Get Ticket
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1624020930505
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
